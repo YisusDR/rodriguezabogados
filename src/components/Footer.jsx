@@ -21,8 +21,8 @@ const Footer = () => {
                   className="text-decoration-none text-white fw-bold"
                 >
                   <p>
-                    Calle Ventuari, Residencias Alta vista, Torre A, Piso 2,
-                    Bolivar, Puerto Ordaz, Venezuela
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sequi, hic Lorem ipsum dolor sit amet.
                   </p>
                 </a>
                 <hr />
@@ -34,7 +34,7 @@ const Footer = () => {
                   }}
                   className="text-decoration-none text-white"
                 >
-                  <p>+58 (414) 896 35 09 </p>
+                  <p>+58 (414) 896 35 xx </p>
                 </a>
                 <hr />
                 <a
