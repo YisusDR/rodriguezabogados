@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import "Carousel";
+@import "Navbar";
+
+$font-family-base: "Montserrat", sans-serif;
+$primary: #c7ab90;
+
+main {
+  background-color: #ebeae4;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "Card";
+@import "img_medio";
